@@ -1,0 +1,4 @@
+[mcp_servers.laravel-boost]
+command = "wsl.exe"
+args = ["/home/ml099/.config/herd-lite/bin/php", "/home/ml099/dev/hris/artisan", "boost:mcp"]
+cwd = "/home/ml099/dev/hris"
